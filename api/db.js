@@ -14,4 +14,4 @@ export const client = new Client({
 });
 
 await client.connect();
-console.log("Terhubung ke basis data.");
+console.log("connect to database.");
